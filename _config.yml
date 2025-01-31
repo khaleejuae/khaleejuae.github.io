@@ -1,6 +1,6 @@
-name: AI Deep Seek Blog
-title: AI Deep Seek Blog
-description: Your go-to source for in-depth reviews, comparisons, and insights into the latest AI tools, software, and innovations
+name: Khaleej UAE
+title: Khaleej UAE Blog
+description: Your ultimate guide to life in the UAE and the Gulf region. Khaleej UAE covers everything from culture and travel to business and current events, offering insights and perspectives on this dynamic region.
 logo: assets/images/idnlogos.png
 favicon: assets/images/techico.png
 url: ''
@@ -10,13 +10,13 @@ include:
   - _pages
 permalink: '/:title/'
 authors:
-  techidn:
-    name: Cazorla
-    display_name: Cazorla
+  khaleej:
+    name: Khaleej
+    display_name: Khaleej
     email: krvsuite@gmail.com
     twitter: ''
-    description: "Business enthusiast with a passion for innovation and problem-solving."
-    web: "https://aideepseek.github.io"
+    description: "Your tour guide to life in the UAE and the Gulf region"
+    web: "https://khaleejuae.github.io"
     gravatar: 0397aa39d5259d69961beaf1155fa085
 plugins:
   - jekyll-paginate
