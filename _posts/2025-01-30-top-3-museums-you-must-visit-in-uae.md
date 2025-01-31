@@ -1,7 +1,7 @@
 ---
 layout: ampstory
 image: https://i0.wp.com/ws.aproinov.com/wp-content/uploads/2025/01/Cover-UAE-Museums.jpg?resize=720,1280
-author: techidn
+author: khaleej
 featured: true
 description: The three leading museums in UAE which attract visitors include Louvre Abu Dhabi for art displays together with Dubai Museum showing history and Museum of the Future illustrating innovation.
 title: Top 3 Museums You Must Visit in UAE
