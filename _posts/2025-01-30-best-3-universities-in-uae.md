@@ -1,7 +1,7 @@
 ---
 layout: ampstory
 image: https://i0.wp.com/ws.aproinov.com/wp-content/uploads/2025/01/Cover-UAE-Universities.jpg?resize=720,1280
-author: techidn
+author: khaleej
 featured: true
 description: The UAE's leading educational institutions UAEU and AUS together with Khalifa University drive academic excellence through innovation and research to develop regional leaders.
 title: Best 3 Universities in UAE
